@@ -52,6 +52,7 @@ career-profile:
 education:
     - degree: BSc in Business Management
       university: University of Państwowa Wyższa Szkoła Zawodowa
+      
       time: 2014 - 2014
       details: |
         Took a 4 month-education in Kalisz/Poland as part of Erasmus.
@@ -83,7 +84,8 @@ experiences:
 
     - role: Senior Software Engineer
       time: 2014 - 2015
-      company: Google, London
+      - company: Google, LondoN
+        link: https://nuhkoca.github.io/
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
