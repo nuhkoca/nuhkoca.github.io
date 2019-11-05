@@ -17,7 +17,6 @@ sidebar:
     linkedin: nuhkoca
     github: nuhkoca
     twitter: '@nuhkocaa_'
-    stack-overflow: 5459777/nuhkoca
     
     languages:
       - idiom: Turkish
@@ -58,14 +57,8 @@ education:
       university: Mehmet Akif Ersoy University
       time: 2011 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Consist of 1 year of English class and 4 years of department courses.
+        Got into university from first place quota
 
 experiences:
     - role: Lead Developer
@@ -180,6 +173,4 @@ skills:
 
       - name: Reverse Engineering
         level: 50%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+        
