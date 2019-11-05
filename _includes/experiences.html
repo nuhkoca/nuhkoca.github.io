@@ -20,11 +20,10 @@
       </div><!--//upper-row-->
 
       <div class="company">
-        {{ experience.company }}
         {% if experience.link %}
         <a href="{{ experience.link }}" target="_blank">{{ experience.company }}</a>
         {% else %}
-        {{ experience.title }}
+        {{ experience.company }}
         {% endif %}
       </div>
 
