@@ -13,13 +13,12 @@ sidebar:
 
     # Sidebar links
     email: nuhkocaa@gmail.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codersrank:
+    website: nuhkoca.com/
+    linkedin: nuhkoca
+    github: nuhkoca
+    twitter: '@nuhkocaa_'
+    stack-overflow: 5459777/nuhkoca
+    codersrank: nuhkoca
     
     languages:
       - idiom: Turkish
