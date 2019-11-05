@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Nuh Koca
-    tagline: Android Developer
+    tagline: Android Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -18,7 +18,6 @@ sidebar:
     github: nuhkoca
     twitter: '@nuhkocaa_'
     stack-overflow: 5459777/nuhkoca
-    codersrank: nuhkoca
     
     languages:
       - idiom: Turkish
@@ -32,13 +31,13 @@ sidebar:
 
     interests:
       - item: Biking
-        link:
+        link: https://cyclocamping.com/blog/2016/11/08/10-reasons-biking-is-such-a-rewarding-hobby/
 
       - item: Coding
-        link:
+        link: https://www.youtube.com/watch?v=SVRiktFlWxI
 
       - item: Traveling
-        link:
+        link: https://www.tripadvisor.com/TravelersChoice-Experiences-cTop_Experiences-g1
 
 career-profile:
     title: Career Profile
@@ -49,22 +48,15 @@ career-profile:
       With a strong passion for programming, I enjoy developing open sources for android on Github libraries.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BSc in Business Management
+      university: University of Państwowa Wyższa Szkoła Zawodowa
+      time: 2014 - 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Took a 4 month-education in Kalisz/Poland as part of Erasmus.
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Management Information Systems
+      university: Mehmet Akif Ersoy University
+      time: 2011 - 2016
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
