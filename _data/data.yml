@@ -55,7 +55,7 @@ education:
       time: 2014 - 2014
       link: http://www.pwsz.kalisz.pl/index.php/en/main-page
       details: |
-        Took a 4 month-education in Kalisz/Poland as part of Erasmus.
+        Took a 4 month-education in Kalisz/Poland as part of Erasmus Programme.
 
     - degree: BSc in Management Information Systems
       university: Mehmet Akif Ersoy University
@@ -97,6 +97,7 @@ experiences:
     - role: API Specialist
       time: 2016 - 2017
       company: Hotelspro, Istanbul
+      link: https://www.hotelspro.com/
       details: |
         Worked as an API Specialist. Key feature was mainly to have clients first on test enviroment and
         perform some scenarios in order to have them on production environment to let them use our booking
@@ -106,6 +107,17 @@ experiences:
           - Integrate them into the system
           - Apply Certification Process
           - Getting involved in their code sides mostly in Python, Java
+          
+     - role: Android Developer Intern
+      time: 2016 - 2016
+      company: Kanal Avrupa Media GmbH, Duisburg
+      link: http://kanalavrupa.tv/de/
+      details: |
+        Worked as an Android Developer Intern as part of Erasmus Programme. It lasted about 4 months. Developed the Android
+        application of the organization from scratch.
+        
+          - Developed the Android application of the organization from scratch
+          - Updated and fixed bugs periodically
 
 projects:
     title: Projects
@@ -160,18 +172,21 @@ skills:
 
     toolset:
       - name: Android
-        level: 98%
+        level: 90%
 
       - name: Kotlin
-        level: 95%
+        level: 85%
 
       - name: Java
-        level: 90%
+        level: 85%
 
       - name: Git, Svn
         level: 80%
 
       - name: Shell & CLI
+        level: 70%
+       
+      - name: Database
         level: 70%
 
       - name: Reverse Engineering
