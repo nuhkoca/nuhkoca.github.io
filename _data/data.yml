@@ -108,16 +108,16 @@ experiences:
           - Apply Certification Process
           - Getting involved in their code sides mostly in Python, Java
           
-     - role: Android Developer Intern
-       time: 2016 - 2016
-       company: Kanal Avrupa Media GmbH, Duisburg
-       link: http://kanalavrupa.tv/de/
-       details: |
-         Worked as an Android Developer Intern as part of Erasmus Programme. It lasted about 4 months. Developed the Android
-         application of the organization from scratch.
+    - role: Android Developer Intern
+      time: 2016 - 2016
+      company: Kanal Avrupa Media GmbH, Duisburg
+      link: http://kanalavrupa.tv/de/
+      details: |
+        Worked as an Android Developer Intern as part of Erasmus Programme. It lasted about 4 months. Developed the Android
+        application of the organization from scratch.
         
-           - Developed the Android application of the organization from scratch
-           - Updated and fixed bugs periodically
+          - Developed the Android application of the organization from scratch
+          - Updated and fixed bugs periodically
 
 projects:
     title: Projects
