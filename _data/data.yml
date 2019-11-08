@@ -156,22 +156,27 @@ publications:
       - title: ExoPlayer inject with Dagger2
         authors: Nuh Koca
         link: https://blog.usejournal.com/exoplayer-inject-with-dagger2-6e6f9aa8deb2
+        conference: Medium
         
       - title: Easy communication between a layout and an interface through DataBinding
         authors: Nuh Koca
         link: https://medium.com/@nuhkocaa/easy-communication-between-a-layout-and-an-interface-through-databinding-fd5478f363e0
+        conference: Medium
 
       - title: Attention please! Google and Udacity partnership might change your life! — A dreamlike scholarship
         authors: Nuh Koca
         link: https://medium.com/@nuhkocaa/attention-please-google-and-udacity-partnership-might-change-your-life-a-dreamlike-scholarship-ba839fb04077?source=friends_link&sk=fc86364636dde7e7459b7e4a56c52936
+        conference: Medium
 
       - title: Manage all your Glides in a single class with GlideAppModule on Android
         authors: Nuh Koca
         link: https://medium.com/@nuhkocaa/manage-all-your-glides-in-a-single-class-with-glidemodule-on-android-4856ee4983a1
+        conference: Medium
         
       - title: Create a zero coded app with the help of Google Actions
         authors: Nuh Koca
         link: https://medium.com/@nuhkocaa/create-a-zero-code-app-with-the-help-of-google-actions-8039b81a42c3
+        conference: Medium
 
 skills:
     title: Skills &amp; Proficiency
