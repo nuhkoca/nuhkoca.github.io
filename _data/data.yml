@@ -179,6 +179,15 @@ skills:
 
       - name: Java
         level: 85%
+        
+      - name: Dependency Injection
+        level: 85%
+      
+      - name: RxJava2
+        level: 85%
+        
+      - name: Unit/Integration testing
+        level: 80%
 
       - name: Git, Svn
         level: 80%
