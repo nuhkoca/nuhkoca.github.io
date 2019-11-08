@@ -150,22 +150,28 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      You can find my Medium articles, publications under this section.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+       - title: ExoPlayer inject with Dagger2
+        authors: Nuh Koca
+        link: https://blog.usejournal.com/exoplayer-inject-with-dagger2-6e6f9aa8deb2
+        
+      - title: Easy communication between a layout and an interface through DataBinding
+        authors: Nuh Koca
+        link: https://medium.com/@nuhkocaa/easy-communication-between-a-layout-and-an-interface-through-databinding-fd5478f363e0
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Attention please! Google and Udacity partnership might change your life! — A dreamlike scholarship
+        authors: Nuh Koca
+        link: https://medium.com/@nuhkocaa/attention-please-google-and-udacity-partnership-might-change-your-life-a-dreamlike-scholarship-ba839fb04077?source=friends_link&sk=fc86364636dde7e7459b7e4a56c52936
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Manage all your Glides in a single class with GlideAppModule on Android
+        authors: Nuh Koca
+        link: https://medium.com/@nuhkocaa/manage-all-your-glides-in-a-single-class-with-glidemodule-on-android-4856ee4983a1
+        
+      - title: Create a zero coded app with the help of Google Actions
+        authors: Nuh Koca
+        link: https://medium.com/@nuhkocaa/create-a-zero-code-app-with-the-help-of-google-actions-8039b81a42c3
 
 skills:
     title: Skills &amp; Proficiency
