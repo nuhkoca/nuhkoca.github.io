@@ -52,14 +52,15 @@ career-profile:
 education:
     - degree: BSc in Business Management
       university: University of Państwowa Wyższa Szkoła Zawodowa
-      
       time: 2014 - 2014
+      link: http://www.pwsz.kalisz.pl/index.php/en/main-page
       details: |
         Took a 4 month-education in Kalisz/Poland as part of Erasmus.
 
     - degree: BSc in Management Information Systems
       university: Mehmet Akif Ersoy University
       time: 2011 - 2016
+      link: https://www.maku.edu.tr/
       details: |
         Consist of 1 year of English class and 4 years of department courses.
         Got into university from first place quota
